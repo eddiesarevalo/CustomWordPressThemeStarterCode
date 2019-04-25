@@ -12,7 +12,7 @@ Contains blog posts in an array.
 Contains footer content.
 
 ### front-page.php
-Shows the main static content of the page.
+Shows the main static content of the page. For example the home page.
 
 ### functions.php
 Contains all the scripts for loading JS, jQuery, CSS and theme support. This includes theme support such as images and menus.
